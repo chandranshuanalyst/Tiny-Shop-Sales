@@ -1,7 +1,5 @@
 # Tiny-Shop-Sales
-
 ![image](https://github.com/chandranshuanalyst/Tiny-Shop-Sales/assets/91171166/96d5e0af-4236-4842-841f-0d23c1e0afa3)
-
 ## Overview
 This case study uses PostgreSQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
 Basic aggregations
@@ -10,7 +8,6 @@ Window Functions
 Joins
 Date time functions
 CTEs
-
 ## Questions
 1. Which product has the highest price? Only return a single row.
 2. Which customer has made the most orders?
